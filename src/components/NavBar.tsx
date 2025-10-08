@@ -234,23 +234,6 @@ const NAV_ITEMS: Array<NavItem> = [
   },
   {
     label: "ChatBot",
-    children: [
-      {
-        label: "Web App",
-        subLabel: "Launch the Web Application",
-        href: "#",
-      },
-      {
-        label: "IOS App",
-        subLabel: "Download now",
-        href: "#",
-      },
-      {
-        label: "Android App",
-        subLabel: "Download now",
-        href: "#",
-      },
-    ],
   },
   {
     label: "How it works",

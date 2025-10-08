@@ -81,14 +81,17 @@ const IntelligentTabs = () => {
                 marginX={{ lg: 8 }}
               >
                 <Box padding={2} justifyContent="center" width="1fr">
-                  <Heading marginBottom={2} fontFamily="helvetica">
-                    Lorem ipsum idor
+                  <Heading
+                    marginBottom={2}
+                    fontFamily="helvetica"
+                    fontSize={"md"}
+                  >
+                    Toxicity and Deficiency Checks
                   </Heading>
                   <Text>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Nemo dolorem maxime, molestiae esse, laboriosam repudiandae
-                    neque ratione, voluptatibus iste consequatur cumque earum
-                    in. Non sunt, minima similique maiores cum aliquam!
+                    Spot the Red flags before anyone takes a dose. AI models
+                    detect harmful levels and missing nutrients, giving your
+                    remedies a safety check in seconds
                   </Text>
                 </Box>
                 <Box
@@ -118,14 +121,17 @@ const IntelligentTabs = () => {
                 marginX={{ lg: 8 }}
               >
                 <Box padding={2} justifyContent="center" width="1fr">
-                  <Heading marginBottom={2} fontFamily="helvetica">
-                    Lorem ipsum idor
+                  <Heading
+                    marginBottom={2}
+                    fontFamily="helvetica"
+                    fontSize={"md"}
+                  >
+                    Compound Analysis
                   </Heading>
                   <Text>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Nemo dolorem maxime, molestiae esse, laboriosam repudiandae
-                    neque ratione, voluptatibus iste consequatur cumque earum
-                    in. Non sunt, minima similique maiores cum aliquam!
+                    Get a clear picture of what is in your herbs. Borderless
+                    breaks down each plant active compounds by type and
+                    percentage, no lab needed.
                   </Text>
                 </Box>
                 <Box
@@ -155,14 +161,17 @@ const IntelligentTabs = () => {
                 marginX={{ lg: 8 }}
               >
                 <Box padding={2} justifyContent="center" width="1fr">
-                  <Heading marginBottom={2} fontFamily="helvetica">
-                    Lorem ipsum idor
+                  <Heading
+                    marginBottom={2}
+                    fontFamily="helvetica"
+                    fontSize={"md"}
+                  >
+                    Pharma Comparison
                   </Heading>
                   <Text>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Nemo dolorem maxime, molestiae esse, laboriosam repudiandae
-                    neque ratione, voluptatibus iste consequatur cumque earum
-                    in. Non sunt, minima similique maiores cum aliquam!
+                    See how your plant stack up to pharmaceuticals. Match
+                    natural ingredients to lab-made drugs to unlock new
+                    possibilities or to prove ancient ones
                   </Text>
                 </Box>
                 <Box
@@ -192,14 +201,16 @@ const IntelligentTabs = () => {
                 marginX={{ lg: 8 }}
               >
                 <Box padding={2} justifyContent="center" width="1fr">
-                  <Heading marginBottom={2} fontFamily="helvetica">
-                    Lorem ipsum idor
+                  <Heading
+                    marginBottom={2}
+                    fontFamily="helvetica"
+                    fontSize={"md"}
+                  >
+                    OnChain Logging (SEI Blockchain)
                   </Heading>
                   <Text>
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                    Nemo dolorem maxime, molestiae esse, laboriosam repudiandae
-                    neque ratione, voluptatibus iste consequatur cumque earum
-                    in. Non sunt, minima similique maiores cum aliquam!
+                    Science you can't fake. Every analysis is logged on SEI for
+                    transparency , proof of originality, and future IP claims
                   </Text>
                 </Box>
                 <Box

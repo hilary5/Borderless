@@ -54,12 +54,12 @@ const BorderlessModal = () => {
               <Image src={message} boxSize="30px" />
             </Square>
             <Text size="md" as="b" textAlign="center" marginBottom="10px">
-              Explore our partners and contributors powering the mission
+              Join the Conversation on discord or telegram
             </Text>
             <Text fontSize="sm" textAlign="center" opacity="0.8">
-              We colaborate with researchers, labs, and builders who believe in
-              transparency and plant powered progress. see who is already
-              building with us
+              Connect with Herbal Scientists, healers, and techies around the
+              world, Ask questions, share findings, and get updates straight
+              from the core team
             </Text>
           </Card>
           <Card
@@ -81,12 +81,12 @@ const BorderlessModal = () => {
               <Image src={data} boxSize="30px" />
             </Square>
             <Text size="md" as="b" textAlign="center" marginBottom="10px">
-              Explore our partners and contributors powering the mission
+              Contribute to DeSci - Open, decentralized, and verifiable
             </Text>
             <Text fontSize="sm" textAlign="center" opacity="0.8">
-              We colaborate with researchers, labs, and builders who believe in
-              transparency and plant powered progress. see who is already
-              building with us
+              Submit request, suggest improvement, or validate studies. Your
+              input powers an open-data ecosystem owned by the community, not
+              gatekeepers.
             </Text>
           </Card>
           <Card
